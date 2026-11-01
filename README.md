@@ -232,13 +232,23 @@ Oxygen es un proyecto de aprendizaje y **no está preparado para producción tal
 <!-- Añade aquí tu nombre y tu usuario de GitHub (práctica de GitHub, Parte 2). -->
 Irene Cid
 
+<!-- Daniel García Miyares (DanielGarciaMiyares353) -->
+[Daniel García Miyares](https://github.com/DanielGarciaMiyares353)
+
+
 ## Licencia y uso
 
 Proyecto docente de ejemplo para clases de DevOps y DevSecOps. Código original de Oxygen: [cidinene/oxygen](https://github.com/cidinene/oxygen).
-p r u e b a  
- p r u e b a  
- p r u e b a  
- p r u e b a  
- p r u e b a  
- p r u e b a  
+p r u e b a 
+ 
+ p r u e b a 
+ 
+ p r u e b a 
+ 
+ p r u e b a 
+ 
+ p r u e b a 
+ 
+ p r u e b a 
+ 
  
